@@ -1,2 +1,2 @@
-# DevOps_online_Dnipro_2020Q42021Q1
-DevOps_online_Dnipro_2020Q42021Q1
+### Repository with homework for Epam DevOps course of student Maksym Butusov.
+![](images/wallper.jpg)
